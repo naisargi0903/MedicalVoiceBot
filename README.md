@@ -4,8 +4,10 @@
 ## **Project Overview**
 This project focuses on developing a **Multimodal Medical Chatbot** that provides accurate and efficient responses to medical queries using a **Multimodal Large Language Model (LLM)**. The chatbot supports **vision and voice inputs**, improving accessibility and usability for diverse patient populations.
 
-## **Dataset used**
-https://www.kaggle.com/datasets/shubhamgoel27/dermnet
+## **Dataset**
+This project uses the DermNet dataset: https://www.kaggle.com/datasets/shubhamgoel27/dermnet
+The DermNet dataset contains dermatological images across various skin conditions, making it suitable for training models to recognize and classify skin disorders.
+
 
 ## **Objectives**
 1. Deliver **precise medical responses** using an advanced **Multimodal LLM**.
