@@ -6,6 +6,7 @@ This project focuses on developing a **Multimodal Medical Chatbot** that provide
 
 ## **Dataset**
 This project uses the DermNet dataset: https://www.kaggle.com/datasets/shubhamgoel27/dermnet.
+
 The DermNet dataset contains dermatological images across various skin conditions, making it suitable for training models to recognize and classify skin disorders.
 
 
